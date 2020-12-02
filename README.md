@@ -2,4 +2,4 @@ hoge
 
 はじめてのgithub
 
-github
+練習中
